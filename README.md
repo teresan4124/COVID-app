@@ -10,7 +10,7 @@ This interactive Streamlit app visualizes global COVID-19 vaccination progress u
 - Linear regression trend analysis
 
   ![Screenshot of COVID Tracker App](images/Total_Vaccinations.png)
-  ![Screenshot of COVID Tracker App](images/_Latest_Total_Vaccinations.png)
+  ![Screenshot of COVID Tracker App](images/Latest_Total_Vaccinations.png)
 
 ## Run the App 
 
